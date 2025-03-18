@@ -6,3 +6,7 @@
 * Modelo de un sistema computacional clásico.
 * Modelo de Von Neumann.
 * Modelo de un sistema MIPS.
+
+**Bibliografía unidad 1**
+
+* Computer_Architecture-MIPS-Cap6.pdf
