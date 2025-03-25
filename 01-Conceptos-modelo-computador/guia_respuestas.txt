@@ -1,0 +1,209 @@
+¿1. ¿Cuál es el enfoque principal de la organización de computadores?
+A) Aspectos lógicos
+B) Aspectos físicos
+C) Diseño de software
+D) Programación
+ANSWER: B
+
+¿2. ¿Qué describe la arquitectura de computadores?
+A) Cómo se construye un sistema
+B) Qué hace un sistema
+C) Cuánto cuesta un sistema
+D) Dónde se ubica un sistema
+ANSWER: B
+
+¿3. ¿Qué tipo de instrucciones se incluye en un conjunto de instrucciones?
+A) Instrucciones de control
+B) Instrucciones de transferencia
+C) Instrucciones aritméticas
+D) Todas las anteriores
+ANSWER: D
+
+¿4. ¿Cuál de los siguientes es un componente de la micro-arquitectura?
+A) Memoria RAM
+B) Registros
+C) Disco duro
+D) Teclado
+ANSWER: B
+
+¿5. ¿Qué arquitectura es conocida por su modelo de almacenamiento de programa en la misma memoria?
+A) Arquitectura Harvard
+B) Arquitectura de Von Neumann
+C) Arquitectura RISC
+D) Arquitectura CISC
+ANSWER: B
+
+¿6. ¿Qué unidad realiza operaciones aritméticas básicas?
+A) Unidad de Control
+B) Registros
+C) ALU (Unidad Aritmético Lógica)
+D) Bus de datos
+ANSWER: C
+
+¿7. ¿Qué representa el PC en un sistema computacional?
+A) Registro de instrucciones
+B) Contador de programa
+C) Registro de datos
+D) Unidad de control
+ANSWER: B
+
+¿8. ¿Qué tipo de bus se utiliza para transferir datos digitales entre dispositivos?
+A) Bus de control
+B) Bus de datos
+C) Bus de direcciones
+D) Bus serial
+ANSWER: B
+
+¿9. ¿Qué acción realiza el ciclo de Neumann en un sistema computacional?
+A) Solo almacena datos
+B) Solo ejecuta instrucciones
+C) Busca, decodifica y ejecuta instrucciones
+D) Solo controla la memoria
+ANSWER: C
+
+¿10. ¿Qué tipo de registros permiten almacenar datos del programa en ejecución?
+A) Registros de control
+B) Registros de uso general
+C) Registros de estado
+D) Registros de instrucciones
+ANSWER: B
+
+¿11. ¿Cuál es la función principal de la Unidad de Control?
+A) Almacenar datos
+B) Procesar instrucciones
+C) Controlar operaciones del procesador
+D) Administrar la memoria
+ANSWER: C
+
+¿12. ¿Qué tipo de memoria almacena las instrucciones a procesar?
+A) Memoria cache
+B) Memoria de datos
+C) Memoria de instrucciones
+D) Memoria secundaria
+ANSWER: C
+
+¿13. ¿Qué es un código objeto en programación?
+A) Código fuente
+B) Código ensamblador
+C) Código que se ejecuta directamente en el procesador
+D) Código en lenguaje alto nivel
+ANSWER: C
+
+¿14. ¿Qué componente del sistema se utiliza para almacenar variables locales?
+A) Registros
+B) Stack
+C) ALU
+D) Bus de datos
+ANSWER: B
+
+¿15. ¿Cuál de los siguientes es un tipo de bus?
+A) Bus de control
+B) Bus de instrucciones
+C) Bus de almacenamiento
+D) Bus de red
+ANSWER: A
+
+¿16. ¿Qué tipo de arquitectura se basa en una estructura de almacenamiento de datos y programa?
+A) Harvard
+B) Von Neumann
+C) RISC
+D) CISC
+ANSWER: B
+
+¿17. ¿Qué operación realiza la instrucción 'addiu' en el código ensamblador?
+A) Sumar
+B) Restar
+C) Multiplicar
+D) Dividir
+ANSWER: A
+
+¿18. ¿Qué se entiende por "modelo de un sistema computacional"?
+A) Un diseño de hardware
+B) Un esquema de software
+C) La estructura y funcionamiento de un sistema
+D) Un tipo de base de datos
+ANSWER: C
+
+¿19. ¿Qué permite la micro-arquitectura en un procesador?
+A) Interacción con el usuario
+B) Ejecución de instrucciones
+C) Almacenamiento de datos
+D) Transmisión de datos
+ANSWER: B
+
+¿20. ¿Cuál de las siguientes es una propiedad del bus de direcciones?
+A) Transfiere datos
+B) Almacena instrucciones
+C) Direcciona memoria
+D) Controla dispositivos
+ANSWER: C
+
+¿21. ¿Qué tipo de datos puede almacenar un registro?
+A) Solo números
+B) Solo texto
+C) Tramas de bits
+D) Solo imágenes
+ANSWER: C
+
+¿22. ¿Cuál es el propósito de un compilador?
+A) Traducir código de alto nivel a código máquina
+B) Ejecutar instrucciones
+C) Almacenar datos
+D) Controlar el hardware
+ANSWER: A
+
+¿23. ¿Qué se utiliza para traducir código ensamblador a código máquina?
+A) Compilador
+B) Intérprete
+C) Ensamblador
+D) Editor de texto
+ANSWER: C
+
+¿24. ¿Qué indica el término "ISA"?
+A) Interfaz de Sistema de Almacenamiento
+B) Arquitectura del Conjunto de Instrucciones
+C) Sistema de Acceso Inmediato
+D) Interfaz de Software Avanzada
+ANSWER: B
+
+¿25. ¿Cuál es un ejemplo de un componente lógico?
+A) Memoria RAM
+B) ALU
+C) Disco duro
+D) Monitor
+ANSWER: B
+
+¿26. ¿Qué representa 'IR' en un sistema de computación?
+A) Registro de Instrucciones
+B) Registro de Recursos
+C) Unidad de Instrucciones
+D) Controlador de Recursos
+ANSWER: A
+
+¿27. ¿Qué función tiene un 'Linker' en el proceso de compilación?
+A) Ejecutar el código
+B) Enlazar bibliotecas y módulos
+C) Traducir código fuente
+D) Almacenar datos
+ANSWER: B
+
+¿28. ¿Qué se entiende por "memoria cache"?
+A) Memoria de almacenamiento a largo plazo
+B) Memoria de acceso rápido
+C) Memoria de respaldo
+D) Memoria de solo lectura
+ANSWER: B
+
+¿29. ¿Qué hace un 'assembler'?
+A) Traduce código de alto nivel
+B) Traduce código ensamblador a código máquina
+C) Ejecuta instrucciones
+D) Almacena datos
+ANSWER: B
+
+¿30. ¿Cuál es la función del bus de control?
+A) Transportar datos
+B) Enviar señales de control
+C) Almacenar instrucciones
+D) Administrar la memoria
+ANSWER: B
