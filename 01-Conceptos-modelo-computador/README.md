@@ -13,4 +13,4 @@
 
 **Videos explicativos sobre la arquitectura de Von Neumann**
 
-* (https://youtu.be/O2O4hneA-tk?si=IaL8TRQ6PLWtQD8a)[link]
+* [video 1](https://youtu.be/O2O4hneA-tk?si=IaL8TRQ6PLWtQD8a)
