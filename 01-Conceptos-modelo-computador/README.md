@@ -10,3 +10,7 @@
 **Bibliografía unidad 1**
 
 * Computer_Architecture-MIPS-Cap6.pdf
+
+**Videos explicativos sobre la arquitectura de Von Neumann**
+
+* (https://youtu.be/O2O4hneA-tk?si=IaL8TRQ6PLWtQD8a)[link]
